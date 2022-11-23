@@ -1,9 +1,13 @@
 # Bypass-CrackMe-Cruehead
 
-Modificação de uma instrução do .exe, para pular a verificação 
+Modification of an .exe statement to skip verification
 
-endereço: 0x00401243
+address: 0x00401243
 
-opcode original:   74 07  (je -> jump equal)
+opcode origin: 74  ( je -> jump equal)
 
-opcode adicionado: 75 07  (jne -> jump not equal)
+opcode added: 75  (jne -> jump not equal)
+
+or 
+
+opcode addded: EB (jmp -> jump)
