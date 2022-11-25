@@ -10,4 +10,4 @@ opcode added: 75  (jne -> jump not equal)
 
 or 
 
-opcode addded: EB (jmp -> jump)
+opcode added: EB (jmp -> jump)
